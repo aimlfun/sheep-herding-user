@@ -1,6 +1,6 @@
 # sheep-herding-user
 
-Part of blog post: http://aimlfun.com/using-sheep-because-cats-wont-herd
+From blog posting: http://aimlfun.com/using-sheep-because-cats-wont-herd
 
 This application requires .net6 and Visual Studio 2022 (Community works).
 
